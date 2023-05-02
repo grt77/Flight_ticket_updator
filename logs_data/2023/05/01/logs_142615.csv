@@ -1,0 +1,33 @@
+
+Pipeline is started :2023-05-01 14:26:15.843760
+Done with loading to a file:2023-05-01 14:26:15.848405
+started reg exp executing ^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$on Email 2023-05-01 14:26:15.849984
+started reg exp executing ^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$on Email 2023-05-01 14:26:15.849984
+started reg exp executing ^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$on Email 2023-05-01 14:26:15.849984
+started reg exp executing ^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$on Email 2023-05-01 14:26:15.849984
+started reg exp executing ^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$on Email 2023-05-01 14:26:15.849984
+started reg exp executing ^[1-9][0-9]{9}$on Mobile_phone 2023-05-01 14:26:15.851019
+started reg exp executing ^[1-9][0-9]{9}$on Mobile_phone 2023-05-01 14:26:15.851019
+started reg exp executing ^[1-9][0-9]{9}$on Mobile_phone 2023-05-01 14:26:15.851019
+started reg exp executing ^[1-9][0-9]{9}$on Mobile_phone 2023-05-01 14:26:15.851019
+started reg exp executing ^[1-9][0-9]{9}$on Mobile_phone 2023-05-01 14:26:15.851019
+started reg exp executing [A-Z]{1}$on Fare_class 2023-05-01 14:26:15.852014
+started reg exp executing [A-Z]{1}$on Fare_class 2023-05-01 14:26:15.852014
+started reg exp executing [A-Z]{1}$on Fare_class 2023-05-01 14:26:15.852014
+started reg exp executing [A-Z]{1}$on Fare_class 2023-05-01 14:26:15.852014
+started reg exp executing [A-Z]{1}$on Fare_class 2023-05-01 14:26:15.852014
+started reg exp executing [A-Z0-9]{6}$on PNR 2023-05-01 14:26:15.853180
+started reg exp executing [A-Z0-9]{6}$on PNR 2023-05-01 14:26:15.853180
+started reg exp executing [A-Z0-9]{6}$on PNR 2023-05-01 14:26:15.853180
+started reg exp executing [A-Z0-9]{6}$on PNR 2023-05-01 14:26:15.853180
+started reg exp executing [A-Z0-9]{6}$on PNR 2023-05-01 14:26:15.853180
+applying a ticketing validation 2023-05-01 14:26:15.853180
+applying a ticketing validation 2023-05-01 14:26:15.853180
+applying a ticketing validation 2023-05-01 14:26:15.853180
+applying a ticketing validation 2023-05-01 14:26:15.853180
+applying a ticketing validation 2023-05-01 14:26:15.853180
+applying a book_cabin_validation 2023-05-01 14:26:15.853180
+applying a book_cabin_validation 2023-05-01 14:26:15.853180
+applying a book_cabin_validation 2023-05-01 14:26:15.853180
+applying a book_cabin_validation 2023-05-01 14:26:15.853180
+applying a book_cabin_validation 2023-05-01 14:26:15.853180
